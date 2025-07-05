@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+tensorflow
+matplotlib
+scikit-learn
+fpdf==2.7.6
+opencv-python
+torch==1.9.0
+torchvision==0.10.0
+timesformer
+simplejson
+fvcore
+dotenv
